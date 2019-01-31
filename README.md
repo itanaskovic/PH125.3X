@@ -1,1 +1,1 @@
-# PH125.3X
+# HarvardX: PH125.3X = Data Science: Probability
